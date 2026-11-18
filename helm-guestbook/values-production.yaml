@@ -1,3 +1,3 @@
-replicaCount: 7
+replicaCount: 3
 service:
   type: LoadBalancer
